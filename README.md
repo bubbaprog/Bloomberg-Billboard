@@ -1,5 +1,5 @@
 ---
-title: Bloomberg Billboard Generator
+Bloomberg Billboard Generator
 ---
 
 [As seen in action here.](https://ilovecitr.us/bloomberg/)
